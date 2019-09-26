@@ -14,3 +14,6 @@
 - Writing code and technical specifications
 
 [Портфолио](http://secretworldsun.github.io)
+
+### Мотивирующее фото
+![Приятный рабочий процесс](rizky-subagja-ZfVEWZTHs8M-unsplash.jpg "Фото, настраивающее на работу")
